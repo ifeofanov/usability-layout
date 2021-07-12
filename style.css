@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-    background-color: #616161;
+    background-color: #292929;
     width: 100%;
     position: fixed;
     z-index: 10;
@@ -22,14 +22,13 @@ body {
 }
 
 .text {
-    width: 547px;
+    width: 662px;
     height: 100px;
-    margin-left: 24px;
 }
 
-.rate {
-    width: 152px;
-    height: 34px;
+.exit {
+    width: 325px;
+    height: 38px;
     margin-right: 24px;
 }
 
@@ -77,8 +76,8 @@ body {
 }
 
 .message {
-    width: 313px;
-    height: 235px;
+    width: 466px;
+    height: 219px;
     position: absolute;
     top: 50%;
     left: 50%;
